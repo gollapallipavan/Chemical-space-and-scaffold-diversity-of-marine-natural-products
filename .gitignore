@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# raw CMNPD download (obtain from the CMNPD website; check its terms before redistributing)
+*.sdf
+*.sdf.gz
+*_3d_sdf.gz
+results/intermediate/master_table.csv
