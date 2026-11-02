@@ -1,0 +1,7 @@
+max |MCPS - S4 MCPS|        : 2.220446049250313e-16
+scaffold_freq identical      : True
+top-50 IDs identical to S3   : True
+unique ring scaffolds=7,791; singletons=4,336; ring compounds=24,126
+scaffolds for 50% / 80%: 679 3211
+QED singleton (n=4,336) vs recurring (n=20,888): median 0.494 vs 0.473, MWU p=7.18e-04
+Kruskal-Wallis H=886.6, p=7.0e-192; top-1% threshold=1.180

@@ -1,0 +1,4 @@
+descriptor PCA explained variance: [0.4314 0.191 ]
+Fisher OR=0.827 p=0.0065; chi2=7.17 p=0.0074
+RF triage AUC-ROC=0.941 AUC-PR=0.237; confusion=[[4619, 375], [7, 44]]
+cascade: [25224, 22355, 19641, 2502, 252]
